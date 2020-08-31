@@ -20,8 +20,11 @@
 
 ## 自动运行
 
-完成上述配置之后，利用Windows任务计划程序实现开机自动运行。
+main.py是Python程序，main.exe是可执行文件。
 
 如果您没有Python解释器，您也可以使用exe文件。
+
+完成上述配置之后，利用Windows任务计划程序实现开机自动运行。
+
 # 证书
 GPL-3.0 License
